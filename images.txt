@@ -1,1 +1,2 @@
 nanssye/playwright:v1.50.0-jammy
+
