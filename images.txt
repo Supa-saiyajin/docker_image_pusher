@@ -1,2 +1,1 @@
-mcr.microsoft.com/playwright/python:v1.55.0-jammy
-python:3.11.12-slim
+debian:bullseye-slim
