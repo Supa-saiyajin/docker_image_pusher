@@ -1,2 +1,1 @@
-wechatpadpro/wechatpadpro:latest
-
+redis/redis:6
